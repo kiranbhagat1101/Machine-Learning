@@ -1,3 +1,9 @@
+
+DOWNLOAD LINK:
+
+https://www.kaggle.com/c/digit-recognizer
+
+
 CNN:
 
 Convolutional Neural Networks have wide applications in image and video recognition Convolutional Neural Network for digits recognition trained on digit-recognizer dataset. I choosed to build it with keras API (Tensorflow backend)
