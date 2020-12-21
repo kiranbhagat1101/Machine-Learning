@@ -1,0 +1,1 @@
+The idea of (probabilistic) language modeling is to calculate the probability of a sentence (or sequence of words). This can be used to find the probabilities for the next word in a sequence, or the probabilities for possible words at a given (masked) position.
